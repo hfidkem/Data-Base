@@ -5,3 +5,5 @@ https://docs.google.com/document/d/187VT6IMsUZDBJFoMHd_kSanQ8fIszHfs8j1vuYW0_sc/
 https://docs.google.com/document/d/1k-ooOjUs9ZnNwmKAWnzlMh94oNsUCBfvOLVeLEV4-SI/edit?usp=drivesdk
  
 https://docs.google.com/spreadsheets/d/1eazu8KshnE5GcC0n6BXbfB8aSAutpYFF/edit?usp=drivesdk&ouid=110953982439409485788&rtpof=true&sd=true
+
+20.09.22  https://docs.google.com/document/d/11fqr6KNWhd2Nnsai4p-03PE8aYsYmWIG8akRaYO5XvE/edit?usp=drivesdk
