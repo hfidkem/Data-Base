@@ -7,3 +7,5 @@ https://docs.google.com/document/d/1k-ooOjUs9ZnNwmKAWnzlMh94oNsUCBfvOLVeLEV4-SI/
 https://docs.google.com/spreadsheets/d/1eazu8KshnE5GcC0n6BXbfB8aSAutpYFF/edit?usp=drivesdk&ouid=110953982439409485788&rtpof=true&sd=true
 
 20.09.22  https://docs.google.com/document/d/11fqr6KNWhd2Nnsai4p-03PE8aYsYmWIG8akRaYO5XvE/edit?usp=drivesdk
+
+27.09.22 Команды SQL https://docs.google.com/document/d/1QeF32RGfUd5fzPHsrB9ir1_o70qfG3Ij4mn9R0l5pJQ/edit?usp=sharing
