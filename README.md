@@ -11,3 +11,6 @@ https://docs.google.com/spreadsheets/d/1eazu8KshnE5GcC0n6BXbfB8aSAutpYFF/edit?us
 27.09.22 Команды SQL https://docs.google.com/document/d/1QeF32RGfUd5fzPHsrB9ir1_o70qfG3Ij4mn9R0l5pJQ/edit?usp=sharing
 
 30.09.22 https://docs.google.com/document/d/1chRtWsSe46z38v794nvi5q634PjPUhnJPT8bNwdRQbU/edit?usp=drivesdk
+
+07.10.22 Создание бд с нуля https://drive.google.com/file/d/1qjnHcLpago6sDHWzguYugD1jLPkRTPk6/view?usp=sharing
+07.10.22 Создание бд с нуля https://drive.google.com/file/d/16lu-23SLZExSMpndhav-db9cMSodSG5q/view?usp=sharing
