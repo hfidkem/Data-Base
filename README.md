@@ -13,6 +13,7 @@ https://docs.google.com/spreadsheets/d/1eazu8KshnE5GcC0n6BXbfB8aSAutpYFF/edit?us
 30.09.22 https://docs.google.com/document/d/1chRtWsSe46z38v794nvi5q634PjPUhnJPT8bNwdRQbU/edit?usp=drivesdk
 
 07.10.22 Создание бд с нуля https://drive.google.com/file/d/1qjnHcLpago6sDHWzguYugD1jLPkRTPk6/view?usp=sharing
+
 07.10.22 Создание бд с нуля https://drive.google.com/file/d/16lu-23SLZExSMpndhav-db9cMSodSG5q/view?usp=sharing
 
 14.10.22 Создание БД фитнес центра https://docs.google.com/document/d/1TG_n-Q_of5Qws8gJYMVpxMR2Qr2KcgdNsPwe21SjRIU/edit?usp=drivesdk
