@@ -17,3 +17,5 @@ https://docs.google.com/spreadsheets/d/1eazu8KshnE5GcC0n6BXbfB8aSAutpYFF/edit?us
 07.10.22 Создание бд с нуля https://drive.google.com/file/d/16lu-23SLZExSMpndhav-db9cMSodSG5q/view?usp=sharing
 
 14.10.22 Создание БД фитнес центра https://docs.google.com/document/d/1TG_n-Q_of5Qws8gJYMVpxMR2Qr2KcgdNsPwe21SjRIU/edit?usp=drivesdk
+
+18.10.22 вопросы по собеседованию - https://docs.google.com/document/d/1UGvmAxtN1K5gek_g9RK623vqyw-hAD1Dkd-0siOwYsc/edit?usp=drivesdk
