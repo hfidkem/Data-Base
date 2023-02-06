@@ -21,4 +21,6 @@ https://docs.google.com/spreadsheets/d/1eazu8KshnE5GcC0n6BXbfB8aSAutpYFF/edit?us
 18.10.22 вопросы по собеседованию - https://docs.google.com/document/d/1UGvmAxtN1K5gek_g9RK623vqyw-hAD1Dkd-0siOwYsc/edit?usp=drivesdk
 
 
-https://docs.google.com/spreadsheets/d/1OapFPCnOBqxoLE47P-uV4GAG5ao3KnQJck-lgtLbjUk/edit?usp=sharing
+матрицы - https://docs.google.com/spreadsheets/d/1OapFPCnOBqxoLE47P-uV4GAG5ao3KnQJck-lgtLbjUk/edit?usp=sharing
+
+SQLite (stepik) - https://docs.google.com/document/d/1bbE-uxbVpnP981r1CqXCHsgxfyz3ir1NaCr32IpQBco/edit?usp=sharing
