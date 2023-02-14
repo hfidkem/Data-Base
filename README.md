@@ -24,3 +24,5 @@ https://docs.google.com/spreadsheets/d/1eazu8KshnE5GcC0n6BXbfB8aSAutpYFF/edit?us
 матрицы - https://docs.google.com/spreadsheets/d/1OapFPCnOBqxoLE47P-uV4GAG5ao3KnQJck-lgtLbjUk/edit?usp=sharing
 
 SQLite (stepik) - https://docs.google.com/document/d/1bbE-uxbVpnP981r1CqXCHsgxfyz3ir1NaCr32IpQBco/edit?usp=sharing
+
+работа в терминале mysql - https://docs.google.com/document/d/1hi9KI4dG-65vRB27Liheh-CVIU52mPunTpNnasIi5vQ/edit?usp=drivesdk
