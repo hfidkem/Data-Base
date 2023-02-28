@@ -27,4 +27,4 @@ SQLite (stepik) - https://docs.google.com/document/d/1bbE-uxbVpnP981r1CqXCHsgxfy
 
 работа в терминале mysql - https://docs.google.com/document/d/1hi9KI4dG-65vRB27Liheh-CVIU52mPunTpNnasIi5vQ/edit?usp=drivesdk
 
-learnDB - https://docs.google.com/document/d/1ChQnNLAQRIZ0bR5aZe5unhltfjGP-E27oN2uryy8MvQ/edit?usp=drivesdk
+learnDB - https://docs.google.com/document/d/11mYl_vtPNcyKOuA96T1mneNNfI95GT6uJfRe3EXW6GI/edit
