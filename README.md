@@ -1,4 +1,5 @@
  Data-Base
+
 степик 1 - https://docs.google.com/document/d/12nOgdd51LSc7NQzM1bax9P9y1dh_HCtrac0xs6IrJcc/edit?usp=drivesdk
 
 конспект ер - диаграммы - https://docs.google.com/document/d/17jKUBauplIJNnwAg-GaPyy5sLblYWSaK7MEo5NcCaOM/edit?usp=drivesdk
