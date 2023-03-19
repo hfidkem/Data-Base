@@ -1,10 +1,13 @@
-# Data-Base
-https://docs.google.com/document/d/12nOgdd51LSc7NQzM1bax9P9y1dh_HCtrac0xs6IrJcc/edit?usp=drivesdk
-https://docs.google.com/document/d/17jKUBauplIJNnwAg-GaPyy5sLblYWSaK7MEo5NcCaOM/edit?usp=drivesdk
-https://docs.google.com/document/d/187VT6IMsUZDBJFoMHd_kSanQ8fIszHfs8j1vuYW0_sc/edit?usp=drivesdk
-https://docs.google.com/document/d/1k-ooOjUs9ZnNwmKAWnzlMh94oNsUCBfvOLVeLEV4-SI/edit?usp=drivesdk
+ Data-Base
+степик 1 - https://docs.google.com/document/d/12nOgdd51LSc7NQzM1bax9P9y1dh_HCtrac0xs6IrJcc/edit?usp=drivesdk
+
+конспект ер - диаграммы - https://docs.google.com/document/d/17jKUBauplIJNnwAg-GaPyy5sLblYWSaK7MEo5NcCaOM/edit?usp=drivesdk
+
+конспект степик - https://docs.google.com/document/d/187VT6IMsUZDBJFoMHd_kSanQ8fIszHfs8j1vuYW0_sc/edit?usp=drivesdk
+
+заполнение таблиц SQL + фото - https://docs.google.com/document/d/1k-ooOjUs9ZnNwmKAWnzlMh94oNsUCBfvOLVeLEV4-SI/edit?usp=drivesdk
  
-https://docs.google.com/spreadsheets/d/1eazu8KshnE5GcC0n6BXbfB8aSAutpYFF/edit?usp=drivesdk&ouid=110953982439409485788&rtpof=true&sd=true
+таблица сотрудники - https://docs.google.com/spreadsheets/d/1eazu8KshnE5GcC0n6BXbfB8aSAutpYFF/edit?usp=drivesdk&ouid=110953982439409485788&rtpof=true&sd=true
 
 конспекты -  https://docs.google.com/document/d/11fqr6KNWhd2Nnsai4p-03PE8aYsYmWIG8akRaYO5XvE/edit?usp=drivesdk
 
@@ -19,7 +22,6 @@ https://docs.google.com/spreadsheets/d/1eazu8KshnE5GcC0n6BXbfB8aSAutpYFF/edit?us
 14.10.22 Создание БД фитнес центра https://docs.google.com/document/d/1TG_n-Q_of5Qws8gJYMVpxMR2Qr2KcgdNsPwe21SjRIU/edit?usp=drivesdk
 
 18.10.22 вопросы по собеседованию - https://docs.google.com/document/d/1UGvmAxtN1K5gek_g9RK623vqyw-hAD1Dkd-0siOwYsc/edit?usp=drivesdk
-
 
 матрицы - https://docs.google.com/spreadsheets/d/1OapFPCnOBqxoLE47P-uV4GAG5ao3KnQJck-lgtLbjUk/edit?usp=sharing
 
